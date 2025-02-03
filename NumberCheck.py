@@ -42,6 +42,3 @@ while True:
     except KeyboardInterrupt:
         print(f"Cerrando {app_tittle}...")
         break
-
-
-
